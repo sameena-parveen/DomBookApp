@@ -1,6 +1,9 @@
 
 
 document.getElementById("form")
-event.preventDefault('click...',function(){
-    console.log(click)
+Form.addEventlistener("submit",function(){
+
+event.preventDefault
+    //console.log(click...)
 })
+

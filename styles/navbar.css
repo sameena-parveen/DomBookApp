@@ -10,6 +10,9 @@ a{
     text-decoration:none;
 
 }
+a:hover{
+    color:brown;
+}
 #form{
     display:grid;
     gap:20px;
@@ -27,5 +30,9 @@ padding:20px;
 margin:auto;
 }
 .form>.details{
-    
+display:grid;
+gap:20px;
+width:30px;
+padding:20px;
+
 }
